@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45" started-at="2018-03-15T20:00:04Z" finished-at="2018-03-15T20:00:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45" started-at="2018-03-15T20:00:04Z" finished-at="2018-03-15T20:00:04Z">
+      <class name="com.testng.Annotations">
+        <test-method status="PASS" signature="beforesuiteM()[pri:0, instance:com.testng.Annotations@78e67e0a]" name="beforesuiteM" is-config="true" duration-ms="16" started-at="2018-03-15T16:00:04Z" finished-at="2018-03-15T16:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuiteM -->
+        <test-method status="PASS" signature="beforetestM()[pri:0, instance:com.testng.Annotations@78e67e0a]" name="beforetestM" is-config="true" duration-ms="0" started-at="2018-03-15T16:00:04Z" finished-at="2018-03-15T16:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetestM -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.testng.Annotations@78e67e0a]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-03-15T16:00:04Z" finished-at="2018-03-15T16:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testM1()[pri:0, instance:com.testng.Annotations@78e67e0a]" name="testM1" duration-ms="6" started-at="2018-03-15T16:00:04Z" finished-at="2018-03-15T16:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testM1 -->
+        <test-method status="PASS" signature="beforeM()[pri:0, instance:com.testng.Annotations@78e67e0a]" name="beforeM" is-config="true" duration-ms="0" started-at="2018-03-15T16:00:04Z" finished-at="2018-03-15T16:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeM -->
+        <test-method status="PASS" signature="afterM()[pri:0, instance:com.testng.Annotations@78e67e0a]" name="afterM" is-config="true" duration-ms="0" started-at="2018-03-15T16:00:04Z" finished-at="2018-03-15T16:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterM -->
+        <test-method status="PASS" signature="testM2()[pri:0, instance:com.testng.Annotations@78e67e0a]" name="testM2" duration-ms="4" started-at="2018-03-15T16:00:04Z" finished-at="2018-03-15T16:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testM2 -->
+        <test-method status="PASS" signature="beforeM()[pri:0, instance:com.testng.Annotations@78e67e0a]" name="beforeM" is-config="true" duration-ms="0" started-at="2018-03-15T16:00:04Z" finished-at="2018-03-15T16:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeM -->
+        <test-method status="PASS" signature="afterM()[pri:0, instance:com.testng.Annotations@78e67e0a]" name="afterM" is-config="true" duration-ms="1" started-at="2018-03-15T16:00:04Z" finished-at="2018-03-15T16:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterM -->
+        <test-method status="PASS" signature="testM3()[pri:0, instance:com.testng.Annotations@78e67e0a]" name="testM3" duration-ms="0" started-at="2018-03-15T16:00:04Z" finished-at="2018-03-15T16:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testM3 -->
+        <test-method status="PASS" signature="aftertestM()[pri:0, instance:com.testng.Annotations@78e67e0a]" name="aftertestM" is-config="true" duration-ms="0" started-at="2018-03-15T16:00:04Z" finished-at="2018-03-15T16:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertestM -->
+        <test-method status="PASS" signature="beforeM()[pri:0, instance:com.testng.Annotations@78e67e0a]" name="beforeM" is-config="true" duration-ms="0" started-at="2018-03-15T16:00:04Z" finished-at="2018-03-15T16:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeM -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.testng.Annotations@78e67e0a]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-03-15T16:00:04Z" finished-at="2018-03-15T16:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterM()[pri:0, instance:com.testng.Annotations@78e67e0a]" name="afterM" is-config="true" duration-ms="0" started-at="2018-03-15T16:00:04Z" finished-at="2018-03-15T16:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterM -->
+        <test-method status="PASS" signature="aftersuiteM()[pri:0, instance:com.testng.Annotations@78e67e0a]" name="aftersuiteM" is-config="true" duration-ms="0" started-at="2018-03-15T16:00:04Z" finished-at="2018-03-15T16:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuiteM -->
+      </class> <!-- com.testng.Annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
